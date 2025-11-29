@@ -7,4 +7,9 @@ go to download folder and extract the file click on folder upper side and type t
 OR
 C:\Users\Admin\Downloads\sonarqube-25.11.0.114957\sonarqube-25.11.0.114957\bin\windows-x86-64\StartSonar.bat
 
-wait some times
+wait some times===showing the result  installation finish
+2025.11.29 06:50:59 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
+2025.11.29 06:50:59 INFO  app[][o.s.a.SchedulerImpl] SonarQube is operational
+
+
+localhost:9000
