@@ -2,14 +2,29 @@
 
 https://www.oracle.com/in/java/technologies/downloads/#jdk25-windows
 
-go to download folder and extract the file click on folder upper side and type the CMD
+go to download Dir and install java setup finish
+Download=== sonarQube
+https://www.sonarsource.com/products/sonarqube/downloads/
+choose the ::: Community Build and click on Download
+
+go download directory and extract the file click on folder upper side and type the CMD
 ===StartSonar.bat press enter
-OR
+OR follow steps 
 C:\Users\Admin\Downloads\sonarqube-25.11.0.114957\sonarqube-25.11.0.114957\bin\windows-x86-64\StartSonar.bat
 
 wait some times===showing the result  installation finish
 2025.11.29 06:50:59 INFO  app[][o.s.a.SchedulerImpl] Process[ce] is up
 2025.11.29 06:50:59 INFO  app[][o.s.a.SchedulerImpl] SonarQube is operational
 
-
+=====Open the any Browser and type the below steps=====
 localhost:9000
+
+user:: admin
+Password :: admin
+
+======Ask the======password change========
+
+old password: admin
+
+new password:  Admin@123456
+confirm password:  Admin@123456
