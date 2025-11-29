@@ -1,0 +1,8 @@
+1- Download the JAVA installation below URL
+
+https://www.oracle.com/in/java/technologies/downloads/#jdk25-windows
+
+go to download folder and extract the file click on folder upper side and type the CMD
+===StartSonar.bat press enter
+OR
+C:\Users\Admin\Downloads\sonarqube-25.11.0.114957\sonarqube-25.11.0.114957\bin\windows-x86-64\
